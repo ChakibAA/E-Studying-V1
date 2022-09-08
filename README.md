@@ -1,4 +1,4 @@
-# Bac App - Flutter
+# E-Studying - Flutter
 
 Application Flutter où vous pouvez telecharger des fichier depuis une api et les désarchiver et les ouvrir et voir leur contenu , et elle inclue un lecteur de video youtube ou vous pouvez vissioner des cours grace au package youtube_player_iframe.
 Le state management de l'app est fait avec GETX. 
